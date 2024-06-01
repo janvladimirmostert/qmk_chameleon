@@ -1,2 +1,3 @@
 DVORAK configuration for Chameleon Keyboard 
-https://github.com/janvladimirmostert/vial-qmk-chameleon/tree/chameleon-dvorak/keyboards/tweetydabird/chameleon/keymaps/default
+
+https://github.com/vial-kb/vial-qmk/tree/vial/keyboards/tweetydabird/chameleon
